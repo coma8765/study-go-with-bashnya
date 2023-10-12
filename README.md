@@ -1,2 +1,3 @@
-# study-go-with-bashnya
-Study GO with Bashnya
+# Study GO with Bashnya
+> Made by [coma8765](https://t.me/coma8765)
+
